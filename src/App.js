@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import ComponenteA from "./components/ComponenteA"
+import ComponenteB from "./components/ComponenteB"
 function App() {
   return (
-   <ComponenteA></ComponenteA>
+   <ComponenteB></ComponenteB>
   );
 }
 
