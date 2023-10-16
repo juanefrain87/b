@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-
+import ComponenteA from "./components/ComponenteA"
 function App() {
   return (
-    <h1>hola</h1>
+   <ComponenteA></ComponenteA>
   );
 }
 
