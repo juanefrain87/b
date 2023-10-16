@@ -75,7 +75,7 @@ const calcularsurtida = async (e) => {
             <div id="navbar">
                 <div id="foto"></div>
                 <div id="name">
-                    <p id="nombrePerfi">Anna rodriguez</p>
+                    <p id="nombrePerfi">Efrain flores</p>
                     <p id="correo">annarodriguez@gmail.com</p>
                 </div>
             </div>
